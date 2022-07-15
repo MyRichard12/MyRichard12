@@ -20,6 +20,8 @@ let code = []
 
 ### I create Solutions with these ⏫
 
+## 🤖 SKILLS.me⬇️
+
 ```
 var results =  new GitProfile()
 
