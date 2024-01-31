@@ -15,7 +15,7 @@ printf(languages,'/n')
 
 ```
 let code = []
- code.languages={'PHP', 'JS', 'GO'}
+ code.languages={'PHP', 'JS', 'TS', 'PYTHON'}
 ```
 
 ### I create Solutions with these ⏫
