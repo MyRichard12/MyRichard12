@@ -1,7 +1,15 @@
 ```
-I Code and i guess that is it.
+I write codes and i guess that is it.
 ```
 👀
+
+### A He - Human
+- Boring
+- Tries to be smart
+- Stoic
+- Not Assertive
+- Wjat else...?
+
 
 
 <!---
