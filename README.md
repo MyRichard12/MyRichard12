@@ -8,7 +8,7 @@ I write codes and i guess that is it.
 - Tries to be smart
 - Stoic
 - Not Assertive
-- Wjat else...?
+- What else...?
 
 
 
